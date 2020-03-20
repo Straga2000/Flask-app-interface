@@ -1,0 +1,6 @@
+{% extends "layout.html" %}
+{% block content %}
+    {% for post in posts %}
+    <h1>Hi! My name is {{post.name}}, I am {{post.age}} and {{post.sex}}.</h1>
+    {% endfor %}
+{% endblock content %}
