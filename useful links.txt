@@ -1,0 +1,3 @@
+https://flask.palletsprojects.com/en/1.1.x/quickstart/#quickstart
+https://github.com/CoreyMSchafer/code_snippets/tree/master/Python/Flask_Blog -resources for app
+https://www.youtube.com/watch?v=QnDWIZuWYW0 - video source
